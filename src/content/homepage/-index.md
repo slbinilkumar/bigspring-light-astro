@@ -1,8 +1,9 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Welcome to Lumirefresh Thiruvanathapuram 📞 7021153270
+  content: Experience unparalleled elegance at Lumirefresh Thiruvananthapuram, a premium serviced apartment offering cozy, stylish, and modern living in the heart of the city. Perfect for business travelers, couples, and families, we ensure a seamless blend of comfort and sophistication.
   image: /images/banner-art.png
+
   button:
     enable: true
     label: "Contact Us"
@@ -10,27 +11,26 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Something You Need To Know lumirefresh
   features:
-    - name: "Clean Code"
+    - name: "Luxury Comfort"
       icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Object Oriented"
+      content: "Indulge in a premium stay with stylish interiors, plush furnishings, and top-tier amenities."
+    - name: "Modern Modular Kitchen"
       icon: "/images/oop.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "24h Service"
-      icon: "/images/user-clock.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Value for Money"
+      content: "Cook with ease in a fully equipped modular kitchen designed for convenience and elegance."
+    - name: "Entertainment Hub"
       icon: "/images/love.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Faster Response"
+      content: "Relax with high-definition TVs in every room featuring all major OTT platforms."
+    - name: "Couple-Friendly & Secure"
       icon: "/images/speedometer.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Cloud Support"
+      content: "A warm and private ambiance designed to offer comfort and security for every guest."
+    - name: "Prime Location"
       icon: "/images/cloud.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
+      content: "Stay in the heart of Thiruvananthapuram with easy access to business hubs and attractions."
+    - name: "Luxury Bath Experience"
+      icon: "/images/cloud.svg"
+      content: "Unwind in a lavish bathtub for a spa-like retreat in your own private space."
 # services
 services:
   - title: "It is the most advanced digital marketing and it company."
